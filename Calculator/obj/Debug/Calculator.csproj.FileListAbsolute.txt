@@ -1,0 +1,18 @@
+E:\work\Visual Studio\Calculator\bin\Debug\Calculator.exe.config
+E:\work\Visual Studio\Calculator\bin\Debug\Calculator.exe
+E:\work\Visual Studio\Calculator\bin\Debug\Calculator.pdb
+E:\work\Visual Studio\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\work\Visual Studio\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\work\Visual Studio\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\work\Visual Studio\Calculator\obj\Debug\Calculator.exe
+E:\work\Visual Studio\Calculator\obj\Debug\Calculator.pdb
+E:\work\Visual Studio\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\work\TSP.NET\Calculator\bin\Debug\Calculator.exe.config
+E:\work\TSP.NET\Calculator\bin\Debug\Calculator.exe
+E:\work\TSP.NET\Calculator\bin\Debug\Calculator.pdb
+E:\work\TSP.NET\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\work\TSP.NET\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\work\TSP.NET\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\work\TSP.NET\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\work\TSP.NET\Calculator\obj\Debug\Calculator.exe
+E:\work\TSP.NET\Calculator\obj\Debug\Calculator.pdb
